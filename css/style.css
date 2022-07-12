@@ -1,0 +1,92 @@
+
+.tamanio
+{
+    width: 30%;
+}
+.btn-outline-warning {
+    color: #000000;
+    border-color: #619acf;
+  }
+  
+  .btn-outline-warning:hover {
+    color: #fff;
+    background-color: #bdd3e7;
+    border-color: #619acf;
+  }
+  
+  .btn-check:focus + .btn-outline-warning, .btn-outline-warning:focus {
+    box-shadow: 0 0 0 0.25rem rgba(154, 179, 216, 0.5);
+  }
+
+  .bg-lightt  {
+    color: #000;
+    background-color: rgba(255, 255, 255, 0.582);
+    border-color: rgba(255, 255, 255, 0.521);
+  }
+
+  .btn-outline-success{
+    background: orange;
+    color: #fff;
+    border-color: orange;
+  }
+  
+  .btn-outline-success:hover{
+    background: rgb(184, 141, 63);
+    border-color:rgb(184, 141, 63);
+  }
+
+  .nav-link:hover{
+    color: orange;
+  }
+
+  .bg-orange{
+    color: orange;
+  }
+
+  .icon{
+    font-size: 35px;
+  }
+
+  body{
+      font-size: 15px;
+  }
+ 
+  .btn-outline-success{
+    font-size: 15px;
+  }
+
+  .img-fluid {
+    max-width: 90%;
+    height: auto;
+}
+
+
+.tam {
+  width: 40px;
+  height: 40px;
+}
+
+.fondo{
+  background-image: url(../img/fondo.png);
+  background-repeat: no-repeat;
+  background-size: 1500px;
+
+}
+.fondo-2{
+  background-image: url(../img/fondo-2.png);
+  background-repeat: no-repeat;
+  background-size: 1500px;
+
+}
+.tamanioo
+{
+    width: 65%;
+}
+
+.fs-6{
+  font-size: 14px!important;
+}
+.fs-6 .t{
+  font-size: 17px!important;
+}
+
